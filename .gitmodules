@@ -1,0 +1,6 @@
+[submodule "child_dir"]
+	path = child_dir
+	url = https://github.com/UnPocoalegre/My_Code_Manage_Project.git
+[submodule "My_submodule_1"]
+	path = My_submodule_1
+	url = https://github.com/UnPocoalegre/My_submodule_1.git
